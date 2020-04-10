@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\dz10Player\bin\Debug\netcoreapp3.1\dz10Player.exe
+C:\Users\ASUS\Desktop\dz10Player\bin\Debug\netcoreapp3.1\dz10Player.deps.json
+C:\Users\ASUS\Desktop\dz10Player\bin\Debug\netcoreapp3.1\dz10Player.runtimeconfig.json
+C:\Users\ASUS\Desktop\dz10Player\bin\Debug\netcoreapp3.1\dz10Player.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\dz10Player\bin\Debug\netcoreapp3.1\dz10Player.dll
+C:\Users\ASUS\Desktop\dz10Player\bin\Debug\netcoreapp3.1\dz10Player.pdb
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.dll
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.pdb
+C:\Users\ASUS\Desktop\dz10Player\obj\Debug\netcoreapp3.1\dz10Player.genruntimeconfig.cache

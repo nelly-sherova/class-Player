@@ -38,7 +38,19 @@ namespace dz10Player
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Player play = new Player();
+            System.Console.WriteLine("Action of program");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Программа Playable:");
+            play.Play();
+            play.Pause();
+            play.Stop();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Программа Recordable");
+            play.Record();
+            play.Pause();
+            play.Stop();
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }
