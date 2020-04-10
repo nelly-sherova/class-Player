@@ -9,6 +9,12 @@ namespace dz10Player
         public void Stop();
 
     }
+    interface IRecordable
+    {
+        public void Record();
+        public void Pause();
+        public void Stop();
+    }
     class Program
     {
         static void Main(string[] args)
