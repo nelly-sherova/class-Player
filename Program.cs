@@ -15,6 +15,25 @@ namespace dz10Player
         public void Pause();
         public void Stop();
     }
+    class Player : IPlayable, IRecordable
+    {
+        public void Play()
+        {
+            Console.WriteLine("Playing");
+        }
+        public void Record()
+        {
+            Console.WriteLine("Recording");
+        }
+        public void Pause()
+        {
+            Console.WriteLine("Paused");
+        }
+        public void Stop()
+        {
+            Console.WriteLine("Stoped");
+        }
+    }
     class Program
     {
         static void Main(string[] args)
